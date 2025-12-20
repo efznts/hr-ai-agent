@@ -43,14 +43,27 @@ st.markdown("""
         border-radius: 10px;
         box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     }
+    # .insight-card {
+    #     background: white;
+    #     padding: 1.5rem;
+    #     border-radius: 10px;
+    #     border-left: 4px solid #21a038;
+    #     margin-bottom: 1rem;
+    #     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    # }
     .insight-card {
-        background: white;
+        background: var(--secondary-background-color);
+        color: var(--text-color);
         padding: 1.5rem;
         border-radius: 10px;
         border-left: 4px solid #21a038;
         margin-bottom: 1rem;
         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
     }
+    .insight-card * {
+        color: inherit !important;
+    }
+
     .alert-critical { border-left-color: #FF4444 !important; }
     .alert-high { border-left-color: #FF8C00 !important; }
     .alert-medium { border-left-color: #FFD700 !important; }
