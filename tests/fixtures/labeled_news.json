@@ -1,0 +1,502 @@
+[
+  {
+    "id": "news_001",
+    "url": "https://hbr.org/2024/03/the-real-meaning-of-quiet-quitting",
+    "title": "The Real Meaning of Quiet Quitting",
+    "content": "Quiet quitting — doing the bare minimum at work — has become a defining trend of the post-pandemic workplace. Surveys show over 50% of US workers identify as quiet quitters. Managers report declining initiative and emotional investment among team members. Experts link the phenomenon to unresolved burnout and lack of meaningful recognition.",
+    "lang": "en",
+    "expected_topic": "burnout",
+    "expected_risk_level": "high",
+    "expert_notes": "Явное описание тихого ухода как следствия выгорания; 50%+ охват — high risk для организации"
+  },
+  {
+    "id": "news_002",
+    "url": "https://vc.ru/hr/1023456-yandex-sokraschaet-1200-sotrudnikov",
+    "title": "Яндекс сокращает 1200 сотрудников в нескольких подразделениях",
+    "content": "Яндекс объявил о сокращении 1200 сотрудников в подразделениях Маркета, Еды и Лавки. Увольнения затронут преимущественно операционные и административные роли. Компания выплатит выходное пособие в размере трёх месячных окладов. Это крупнейшее сокращение в истории компании с 2022 года.",
+    "lang": "ru",
+    "expected_topic": "layoffs",
+    "expected_risk_level": "critical",
+    "expert_notes": "Массовые увольнения 1200+ человек = critical; конкретные цифры и подразделения"
+  },
+  {
+    "id": "news_003",
+    "url": "https://www.shrm.org/topics-tools/news/talent-acquisition/hiring-slows-tech-sector",
+    "title": "Tech Sector Hiring Slows for Third Consecutive Quarter",
+    "content": "Hiring in the technology sector declined 18% year-over-year in Q1 2024, according to SHRM research. Companies cite macroeconomic uncertainty and AI-driven productivity gains as primary factors. Talent acquisition teams are being restructured, with some firms reducing recruiter headcount by up to 30%.",
+    "lang": "en",
+    "expected_topic": "hiring",
+    "expected_risk_level": "high",
+    "expert_notes": "Системное замедление найма в секторе + сокращение рекрутеров; не одна компания — high"
+  },
+  {
+    "id": "news_004",
+    "url": "https://rbc.ru/career/2024/04/15/zarplaty-v-it-vyrosli",
+    "title": "Зарплаты в IT выросли на 23% за год — исследование HeadHunter",
+    "content": "Медианная зарплата IT-специалистов в России выросла на 23% за последние 12 месяцев по данным HeadHunter. Наибольший рост зафиксирован у разработчиков на Golang (+31%) и специалистов по машинному обучению (+28%). Работодатели отмечают усиление конкуренции за кадры.",
+    "lang": "ru",
+    "expected_topic": "salaries",
+    "expected_risk_level": "medium",
+    "expert_notes": "Рост зарплат — позитивная новость, но усиление конкуренции за кадры создаёт medium риск удержания"
+  },
+  {
+    "id": "news_005",
+    "url": "https://hbr.org/2024/02/building-psychological-safety-remote-teams",
+    "title": "Building Psychological Safety in Remote Teams",
+    "content": "Research from Harvard Business School shows psychological safety is 40% lower in fully remote teams compared to hybrid or in-office settings. Leaders who schedule regular one-on-ones and create structured feedback loops see significantly better outcomes. The study recommends dedicated 'failure debrief' sessions to normalize learning from mistakes.",
+    "lang": "en",
+    "expected_topic": "culture",
+    "expected_risk_level": "medium",
+    "expert_notes": "Культура и психологическая безопасность; данные о снижении метрики в удалённых командах — medium"
+  },
+  {
+    "id": "news_006",
+    "url": "https://habr.com/ru/articles/789012/",
+    "title": "Как выгорание разрушает продуктивность разработчиков: данные за 2 года",
+    "content": "Исследование среди 800 разработчиков показало, что 67% испытывали симптомы выгорания в 2023 году. Наиболее уязвимы сотрудники с опытом 3-7 лет — именно они показывают наибольший отток. Компании, внедрившие регулярные mental health days, снизили текучку на 18%.",
+    "lang": "ru",
+    "expected_topic": "burnout",
+    "expected_risk_level": "high",
+    "expert_notes": "67% охват выгоранием + данные об оттоке — high; конкретная уязвимая группа (3-7 лет опыта)"
+  },
+  {
+    "id": "news_007",
+    "url": "https://fortune.com/2024/03/dei-programs-under-pressure",
+    "title": "DEI Programs Face Mounting Legal and Political Pressure",
+    "content": "Following Supreme Court rulings on affirmative action, over 60 Fortune 500 companies have scaled back formal DEI programs. Legal challenges to diversity hiring targets have increased by 340% in the past 18 months. HR leaders report uncertainty about which DEI practices remain legally defensible.",
+    "lang": "en",
+    "expected_topic": "diversity",
+    "expected_risk_level": "critical",
+    "expert_notes": "Системное давление на DEI + юридические риски для компаний = critical; 340% рост исков"
+  },
+  {
+    "id": "news_008",
+    "url": "https://vedomosti.ru/management/2024/04/korporativnaya-kultura-posle-udalenki",
+    "title": "Корпоративная культура после удалёнки: как компании восстанавливают связи",
+    "content": "Крупные российские компании усиливают офлайн-мероприятия для восстановления корпоративной культуры. Исследование МГУ показало, что сотрудники, работавшие удалённо более двух лет, демонстрируют на 35% более низкую идентификацию с брендом работодателя. Ретрит-программы и командные офлайн-сессии показывают положительный эффект.",
+    "lang": "ru",
+    "expected_topic": "culture",
+    "expected_risk_level": "medium",
+    "expert_notes": "Восстановление культуры после пандемии — medium риск, позитивные действия уже предпринимаются"
+  },
+  {
+    "id": "news_009",
+    "url": "https://www.shrm.org/topics-tools/news/employee-relations/great-resignation-wave-returns",
+    "title": "Signs of a New Resignation Wave Emerge in Healthcare and Education",
+    "content": "Voluntary turnover in healthcare reached 22% in Q4 2023, the highest since 2021. Teachers and nurses cite chronic understaffing, pay stagnation, and emotional exhaustion as top reasons for leaving. HR analysts warn that without systemic changes, the sectors face a talent crisis by 2026.",
+    "lang": "en",
+    "expected_topic": "layoffs",
+    "expected_risk_level": "critical",
+    "expert_notes": "Добровольный уход 22% в здравоохранении + прогноз кризиса = critical; системная проблема отрасли"
+  },
+  {
+    "id": "news_010",
+    "url": "https://vc.ru/hr/1034567-upskilling-it-rossiya",
+    "title": "Российские IT-компании инвестируют в переобучение: тренды 2024",
+    "content": "Более 70% крупных IT-компаний в России запустили программы upskilling в 2024 году. Наиболее популярные направления: AI/ML, кибербезопасность и облачные технологии. Средний бюджет на обучение одного сотрудника вырос до 85 000 рублей в год.",
+    "lang": "ru",
+    "expected_topic": "skills",
+    "expected_risk_level": "low",
+    "expert_notes": "Позитивный тренд инвестиций в обучение; low risk — компании активно реагируют на дефицит навыков"
+  },
+  {
+    "id": "news_011",
+    "url": "https://www.fastcompany.com/work-life/hybrid-work-manager-burnout",
+    "title": "Hybrid Work Is Burning Out Middle Managers",
+    "content": "Middle managers in hybrid environments report 31% higher burnout rates than individual contributors, according to a Microsoft WorkLab study. The 'manager squeeze' — caught between executive directives and employee expectations — has intensified. One in four middle managers is actively looking for a new job.",
+    "lang": "en",
+    "expected_topic": "burnout",
+    "expected_risk_level": "high",
+    "expert_notes": "31% выше выгорание у миддл-менеджеров + 25% в поиске работы = high; специфичная и важная группа риска"
+  },
+  {
+    "id": "news_012",
+    "url": "https://rbc.ru/career/2024/03/diversity-hiring-russia",
+    "title": "Инклюзивный найм в России: работодатели начинают считать DEI-метрики",
+    "content": "Крупные российские работодатели впервые начали официально отслеживать показатели инклюзивного найма. По данным hh.ru, доля вакансий с пометкой об инклюзивности выросла на 40% за год. Эксперты отмечают, что пока это больше HR-бренд, чем системная политика.",
+    "lang": "ru",
+    "expected_topic": "diversity",
+    "expected_risk_level": "low",
+    "expert_notes": "Рост инклюзивного найма — позитивный сигнал; low risk, поскольку это начальная стадия без системных проблем"
+  },
+  {
+    "id": "news_013",
+    "url": "https://hbr.org/2024/01/pay-transparency-laws-spreading",
+    "title": "Pay Transparency Laws Are Spreading Across the US — What HR Needs to Know",
+    "content": "Following Colorado and New York, eight additional US states passed pay transparency legislation in 2023. Companies must now disclose salary ranges in job postings covering over 40% of the US workforce. Early data shows pay compression emerging as a key challenge, with existing employees demanding salary adjustments.",
+    "lang": "en",
+    "expected_topic": "salaries",
+    "expected_risk_level": "high",
+    "expert_notes": "Законодательные изменения затрагивают 40% рабочей силы США + риск pay compression = high"
+  },
+  {
+    "id": "news_014",
+    "url": "https://habr.com/ru/articles/801234/",
+    "title": "Онбординг удалённых сотрудников: что работает, а что нет",
+    "content": "Анализ 200 компаний показал, что удалённый онбординг занимает в среднем на 40% дольше, чем офисный. Ключевые проблемы: отсутствие неформального общения, задержки с доступами и слабая передача культуры. Компании с buddy-системой показывают на 60% лучшее удержание новых сотрудников в первые 90 дней.",
+    "lang": "ru",
+    "expected_topic": "hiring",
+    "expected_risk_level": "medium",
+    "expert_notes": "Онбординг как часть найма; системная проблема удалённого формата — medium риск потери новых сотрудников"
+  },
+  {
+    "id": "news_015",
+    "url": "https://fortune.com/2024/02/amazon-return-to-office-mandate",
+    "title": "Amazon's Return-to-Office Mandate Triggers Wave of Voluntary Departures",
+    "content": "Amazon's five-day in-office requirement led to a 5% increase in voluntary attrition among senior engineers within 60 days of announcement. Internal surveys showed 73% of affected employees felt the policy was not clearly justified. Competing tech firms accelerated hiring of Amazon talent, particularly in Seattle and Bellevue.",
+    "lang": "en",
+    "expected_topic": "culture",
+    "expected_risk_level": "high",
+    "expert_notes": "RTO-политика → рост атриции на 5% среди ценных сотрудников; конкуренты активно переманивают = high"
+  },
+  {
+    "id": "news_016",
+    "url": "https://vc.ru/hr/1045678-sberbank-sokraschaet-back-office",
+    "title": "Сбербанк автоматизирует бэк-офис и сокращает 3000 позиций",
+    "content": "Сбербанк объявил о сокращении 3000 позиций в бэк-офисных подразделениях в рамках программы автоматизации. Большинство сокращаемых должностей — операционисты и сотрудники документооборота. Банк предложит переобучение части сотрудников на технические специальности.",
+    "lang": "ru",
+    "expected_topic": "layoffs",
+    "expected_risk_level": "critical",
+    "expert_notes": "3000 сокращений + автоматизация как драйвер = critical; структурные изменения рынка труда"
+  },
+  {
+    "id": "news_017",
+    "url": "https://www.shrm.org/topics-tools/news/compensation/pay-equity-audit-guide",
+    "title": "How to Conduct a Pay Equity Audit: A Step-by-Step Guide",
+    "content": "Pay equity audits are now legally required in five US states and recommended practice in the EU. SHRM's new guide covers data collection, statistical analysis methods, and remediation planning. Companies that proactively address pay gaps report 23% higher employee trust scores.",
+    "lang": "en",
+    "expected_topic": "salaries",
+    "expected_risk_level": "medium",
+    "expert_notes": "Практическое руководство по аудиту; medium — есть регуляторный контекст, но тон рекомендательный"
+  },
+  {
+    "id": "news_018",
+    "url": "https://vedomosti.ru/management/2024/02/tekuchka-v-roznitse",
+    "title": "Текучесть кадров в розничной торговле достигла рекордных 58%",
+    "content": "Текучесть персонала в российской рознице в 2023 году составила 58% — рекордный показатель за 10 лет по данным Ромир. Основные причины: низкие зарплаты, нестабильный график и отсутствие карьерных перспектив. Крупные сети заявляют о трудностях с закрытием линейных позиций.",
+    "lang": "ru",
+    "expected_topic": "layoffs",
+    "expected_risk_level": "critical",
+    "expert_notes": "58% текучка = критический риск для отрасли; системная нехватка линейного персонала"
+  },
+  {
+    "id": "news_019",
+    "url": "https://hbr.org/2024/04/skills-based-hiring-replacing-degrees",
+    "title": "Skills-Based Hiring Is Replacing Degree Requirements at Top Employers",
+    "content": "IBM, Google, and Delta Airlines have eliminated degree requirements for 70% of their job postings. Skills-based assessments and portfolio reviews now substitute for educational credentials. Early results show 34% more diverse candidate pools and 18% better 90-day retention among skills-hired employees.",
+    "lang": "en",
+    "expected_topic": "hiring",
+    "expected_risk_level": "low",
+    "expert_notes": "Позитивный тренд расширения воронки найма; low risk — улучшение метрик разнообразия и удержания"
+  },
+  {
+    "id": "news_020",
+    "url": "https://rbc.ru/career/2024/01/vygoranie-medrabotnikov",
+    "title": "Выгорание медицинских работников: угроза системе здравоохранения",
+    "content": "Исследование Минздрава показало, что 72% врачей и 65% медсестёр испытывают признаки профессионального выгорания. Отток кадров из государственных медучреждений ускорился: за 2023 год уволились более 40 000 специалистов. Эксперты предупреждают о риске коллапса скорой помощи в малых городах.",
+    "lang": "ru",
+    "expected_topic": "burnout",
+    "expected_risk_level": "critical",
+    "expert_notes": "72% выгорание + 40 000 уволившихся + риск коллапса системы = critical; отраслевой кризис"
+  },
+  {
+    "id": "news_021",
+    "url": "https://rbc.ru/career/2024/03/planirovanie-preemstvennosti",
+    "title": "Российский бизнес не готов к смене лидеров: 65% компаний без плана преемственности",
+    "content": "Исследование Spencer Stuart показало, что 65% крупных российских компаний не имеют задокументированного плана преемственности для ключевых позиций. После волны эмиграции топ-менеджмента в 2022 году риск неожиданных переходов лидерства вырос вдвое. Компании с планом преемственности демонстрируют на 2,3x меньшие потери при смене CEO.",
+    "lang": "ru",
+    "expected_topic": "skills",
+    "expected_risk_level": "high",
+    "expert_notes": "65% без плана преемственности после кадровых потрясений 2022 = high; специфический российский контекст"
+  },
+  {
+    "id": "news_022",
+    "url": "https://habr.com/ru/articles/812345/",
+    "title": "Тихий найм: компании переводят сотрудников вместо открытия вакансий",
+    "content": "Тихий найм (quiet hiring) набирает популярность среди российских IT-компаний: вместо открытия новых вакансий сотрудников переводят на смежные роли. Это позволяет экономить на рекрутинге, но создаёт риск выгорания из-за расширения обязанностей без роста компенсации.",
+    "lang": "ru",
+    "expected_topic": "hiring",
+    "expected_risk_level": "medium",
+    "expert_notes": "Quiet hiring = medium risk; экономия на найме может скрывать проблемы с перегрузкой сотрудников"
+  },
+  {
+    "id": "news_023",
+    "url": "https://fortune.com/2024/03/workforce-analytics-hr-tech",
+    "title": "Workforce Analytics Adoption Surges as Companies Seek Predictive Retention Tools",
+    "content": "Investment in workforce analytics platforms grew 47% in 2023, driven by demand for attrition prediction models. Tools that identify flight-risk employees 90 days before resignation have achieved 78% accuracy in pilot programs. However, employee advocacy groups raise concerns about surveillance and data privacy.",
+    "lang": "en",
+    "expected_topic": "skills",
+    "expected_risk_level": "medium",
+    "expert_notes": "Рост аналитики — позитив, но privacy concerns создают medium риск репутации и регуляторного давления"
+  },
+  {
+    "id": "news_024",
+    "url": "https://vedomosti.ru/management/2024/03/gendernoe-ravenstvo-zarplat",
+    "title": "Гендерный разрыв в зарплатах в России сократился до 26%",
+    "content": "По данным Росстата, гендерный разрыв в оплате труда в России составил 26% в 2023 году — минимальное значение за последние 15 лет. Наибольший прогресс достигнут в IT (+8%) и банковском секторе (+5%). Тем не менее в промышленности и строительстве разрыв по-прежнему превышает 35%.",
+    "lang": "ru",
+    "expected_topic": "diversity",
+    "expected_risk_level": "medium",
+    "expert_notes": "Прогресс есть, но 26% разрыв и 35% в промышленности — medium; неравенство сохраняется системно"
+  },
+  {
+    "id": "news_025",
+    "url": "https://www.shrm.org/topics-tools/news/employee-relations/mental-health-benefits-retention",
+    "title": "Mental Health Benefits Now a Top-3 Factor in Job Acceptance Decisions",
+    "content": "For the first time, mental health benefits ranked in the top three factors influencing job offers acceptance, ahead of paid time off. Candidates aged 25-34 ranked mental health support as the single most important benefit. Companies offering comprehensive EAP programs see 19% lower voluntary turnover.",
+    "lang": "en",
+    "expected_topic": "burnout",
+    "expected_risk_level": "low",
+    "expert_notes": "Позитивный тренд: работодатели реагируют на mental health запросы; low risk — рынок адаптируется"
+  },
+  {
+    "id": "news_026",
+    "url": "https://vc.ru/hr/1056789-mailru-rebrending-hr",
+    "title": "VK переименовывает HR-департамент в People Experience и меняет подход к культуре",
+    "content": "VK объявил о ребрендинге HR-функции в People Experience и запуске новой программы вовлечённости сотрудников. Компания инвестирует 200 млн рублей в развитие корпоративной культуры в 2024 году. Новый подход фокусируется на employee journey mapping и персонализированном развитии.",
+    "lang": "ru",
+    "expected_topic": "culture",
+    "expected_risk_level": "low",
+    "expert_notes": "Позитивная инициатива; low risk — инвестиции в культуру, нет тревожных сигналов"
+  },
+  {
+    "id": "news_027",
+    "url": "https://habr.com/ru/articles/856789/",
+    "title": "ИИ заменяет джунов: как автоматизация меняет рынок entry-level позиций",
+    "content": "Количество junior-вакансий в российском IT снизилось на 31% в 2024 году на фоне внедрения AI-инструментов разработки. Компании сохраняют middle и senior, сокращая точки входа в профессию. Эксперты предупреждают о риске «провала поколений» — когда некому будет расти до senior через 5-7 лет.",
+    "lang": "ru",
+    "expected_topic": "skills",
+    "expected_risk_level": "high",
+    "expert_notes": "-31% junior вакансий = high риск для воспроизводства кадрового резерва; долгосрочный структурный риск"
+  },
+  {
+    "id": "news_028",
+    "url": "https://rbc.ru/career/2024/02/rabochie-mesta-tekhnologii",
+    "title": "Каждая пятая вакансия в России теперь требует цифровых навыков",
+    "content": "Доля вакансий с требованием базовых цифровых компетенций выросла до 20% в 2024 году против 11% в 2021-м. Наиболее быстрый рост — в логистике, рознице и производстве. Эксперты предупреждают о риске структурной безработицы среди работников без цифровых навыков.",
+    "lang": "ru",
+    "expected_topic": "skills",
+    "expected_risk_level": "medium",
+    "expert_notes": "Структурный сдвиг требований к навыкам; medium risk — процесс идёт, но часть работников может выпасть"
+  },
+  {
+    "id": "news_029",
+    "url": "https://fortune.com/2024/01/gen-z-workplace-expectations",
+    "title": "Gen Z Workers Are Quitting Jobs That Don't Align with Their Values",
+    "content": "40% of Gen Z workers have quit or seriously considered quitting a job because the company's values didn't match their own, according to a Deloitte survey. Purpose-driven workplace culture and visible ESG commitments are now non-negotiable for this demographic. Companies targeting Gen Z talent must rethink employer branding fundamentally.",
+    "lang": "en",
+    "expected_topic": "culture",
+    "expected_risk_level": "medium",
+    "expert_notes": "40% Gen Z готовы уйти из-за ценностей — medium; долгосрочный риск для компаний без ESG-повестки"
+  },
+  {
+    "id": "news_030",
+    "url": "https://habr.com/ru/articles/823456/",
+    "title": "Дефицит IT-кадров в России: +200 000 вакансий без закрытия",
+    "content": "По данным hh.ru, в России открыто более 200 000 IT-вакансий без подходящих кандидатов. Наибольший дефицит — в backend-разработке, DevOps и кибербезопасности. Компании вынуждены повышать оферы и развивать джуниор-программы, что существенно увеличивает затраты на найм.",
+    "lang": "ru",
+    "expected_topic": "hiring",
+    "expected_risk_level": "high",
+    "expert_notes": "200 000 закрытых вакансий = структурный дефицит; high risk для компаний, зависящих от IT-найма"
+  },
+  {
+    "id": "news_031",
+    "url": "https://vedomosti.ru/management/2024/04/chetyrjohdnevnaya-nedelya-rossiya",
+    "title": "Четырёхдневная неделя в России: первые пилоты показывают рост продуктивности",
+    "content": "Пять российских компаний завершили пилот 4-дневной рабочей недели в 2024 году. Результаты: рост продуктивности на 17%, снижение больничных на 40%, улучшение eNPS на 22 пункта. Все компании планируют сделать формат постоянным, однако распространение ограничено офисными и IT-профессиями.",
+    "lang": "ru",
+    "expected_topic": "culture",
+    "expected_risk_level": "low",
+    "expert_notes": "Позитивные пилоты 4-дневной недели в России; low risk — успешный эксперимент с локальными данными"
+  },
+  {
+    "id": "news_032",
+    "url": "https://vc.ru/hr/1067890-mass-layoffs-fintech-2024",
+    "title": "Волна сокращений в российском финтехе: за квартал уволены 8000 человек",
+    "content": "Крупнейшие российские финтех-компании сократили суммарно 8000 сотрудников в I квартале 2024 года. Тинькофф, Точка и ряд нишевых игроков ссылаются на замедление роста и необходимость оптимизации. Аналитики предупреждают, что рынок труда в финтехе перегрет и коррекция продолжится.",
+    "lang": "ru",
+    "expected_topic": "layoffs",
+    "expected_risk_level": "critical",
+    "expert_notes": "8000 сокращений за квартал в одном секторе = critical; системная коррекция с продолжением"
+  },
+  {
+    "id": "news_033",
+    "url": "https://hbr.org/2024/03/inclusive-leadership-business-outcomes",
+    "title": "Inclusive Leadership Directly Drives Financial Performance, New Research Shows",
+    "content": "McKinsey's updated analysis of 1,000 companies finds those in the top quartile for gender diversity are 39% more likely to outperform peers financially. Companies with diverse executive teams demonstrate 27% higher innovation revenue. The research establishes direct causality, not just correlation, for the first time.",
+    "lang": "en",
+    "expected_topic": "diversity",
+    "expected_risk_level": "low",
+    "expert_notes": "Позитивные данные о связи инклюзивности с финансовыми результатами; low risk — аргумент в пользу DEI"
+  },
+  {
+    "id": "news_034",
+    "url": "https://rbc.ru/career/2024/03/kompensatsii-top-menedzhment",
+    "title": "Компенсации топ-менеджмента в России выросли на 40% на фоне дефицита лидеров",
+    "content": "Совокупный доход CEO и C-level руководителей крупных российских компаний вырос на 40% в 2023 году. Основной драйвер — острый дефицит управленческих кадров после волны эмиграции 2022 года. Разрыв между зарплатами топ-менеджмента и рядовых сотрудников достиг 1:47.",
+    "lang": "ru",
+    "expected_topic": "salaries",
+    "expected_risk_level": "high",
+    "expert_notes": "Разрыв 1:47 и +40% у топов = high риск социальной напряжённости и проблем с equity"
+  },
+  {
+    "id": "news_035",
+    "url": "https://www.fastcompany.com/work-life/employee-engagement-2024-report",
+    "title": "Employee Engagement Hits 11-Year Low in 2024 Gallup Report",
+    "content": "Gallup's annual engagement survey shows global employee engagement dropped to 21% — the lowest since 2013. Manager effectiveness is cited as the primary driver, with 70% of engagement variance attributable to manager behavior. The economic cost of disengagement is estimated at $8.8 trillion annually.",
+    "lang": "en",
+    "expected_topic": "burnout",
+    "expected_risk_level": "critical",
+    "expert_notes": "21% вовлечённость = исторический минимум + $8.8 трлн потерь = critical; глобальный масштаб"
+  },
+  {
+    "id": "news_036",
+    "url": "https://habr.com/ru/articles/834567/",
+    "title": "Performance review по-новому: компании отказываются от ежегодных оценок",
+    "content": "Более 40% крупных российских IT-компаний перешли с ежегодного performance review на квартальные или непрерывные циклы обратной связи. Adobe, Accenture и Deloitte показали снижение текучки на 30% после отказа от ежегодных рейтингов. Непрерывный фидбек повышает психологическую безопасность сотрудников.",
+    "lang": "ru",
+    "expected_topic": "culture",
+    "expected_risk_level": "low",
+    "expert_notes": "Позитивное изменение процессов оценки; low risk — компании улучшают практики обратной связи"
+  },
+  {
+    "id": "news_037",
+    "url": "https://fortune.com/2024/04/noncompete-ban-ftc",
+    "title": "FTC Bans Noncompete Agreements: What HR Leaders Must Do Now",
+    "content": "The FTC's sweeping ban on noncompete agreements affects an estimated 30 million US workers. Companies have 120 days to notify employees that existing noncompetes are unenforceable. Legal experts warn of talent poaching acceleration, particularly in tech, finance, and healthcare sectors.",
+    "lang": "en",
+    "expected_topic": "hiring",
+    "expected_risk_level": "high",
+    "expert_notes": "Запрет non-compete затрагивает 30 млн работников; high — ускорение переманивания кадров в ключевых секторах"
+  },
+  {
+    "id": "news_038",
+    "url": "https://vc.ru/hr/1078901-remote-work-russia-2024",
+    "title": "Удалёнка в России в 2024: работодатели возвращают сотрудников в офис",
+    "content": "По данным SuperJob, 43% крупных российских компаний ужесточили требования к офисному присутствию в 2024 году. Каждый третий сотрудник на удалёнке рассматривает смену работы из-за RTO-политики. Компании, настаивающие на полном офисе, фиксируют рост добровольных увольнений на 15-25%.",
+    "lang": "ru",
+    "expected_topic": "culture",
+    "expected_risk_level": "high",
+    "expert_notes": "RTO = 15-25% рост увольнений + 33% рассматривают уход = high риск атриции ценных сотрудников"
+  },
+  {
+    "id": "news_039",
+    "url": "https://www.shrm.org/topics-tools/news/talent-acquisition/ai-hiring-bias-study",
+    "title": "AI Hiring Tools Show Systematic Bias Against Certain Demographic Groups",
+    "content": "An EEOC investigation found that 7 of 10 commercially available AI hiring tools showed statistically significant bias against Black and Hispanic applicants. Audit results revealed disparate impact ratios ranging from 0.62 to 0.78 on protected characteristics. The agency is developing new compliance guidelines for algorithmic hiring.",
+    "lang": "en",
+    "expected_topic": "diversity",
+    "expected_risk_level": "critical",
+    "expert_notes": "Системная дискриминация в 7 из 10 AI-инструментов найма + EEOC расследование = critical"
+  },
+  {
+    "id": "news_040",
+    "url": "https://vedomosti.ru/management/2024/04/rabota-starshego-vozrasta",
+    "title": "Работодатели в России начали активнее нанимать сотрудников 50+",
+    "content": "Доля вакансий без возрастного ограничения в России выросла до 68% в 2024 году. Ряд крупных ретейлеров и банков запустили специальные программы найма для сотрудников старше 50 лет. Работники 50+ демонстрируют на 23% более низкую текучку и более высокую лояльность по данным исследований.",
+    "lang": "ru",
+    "expected_topic": "diversity",
+    "expected_risk_level": "low",
+    "expert_notes": "Позитивный тренд возрастной инклюзивности; low risk — расширение воронки найма без негативных сигналов"
+  },
+  {
+    "id": "news_041",
+    "url": "https://hbr.org/2024/04/total-rewards-strategy-retention",
+    "title": "Why Your Total Rewards Strategy Is Failing to Retain Top Talent",
+    "content": "Despite increasing total compensation by an average of 12%, companies report no improvement in voluntary turnover among high performers. Research indicates top performers leave for non-monetary reasons 70% of the time: lack of growth, poor management, and misaligned culture. Compensation is necessary but not sufficient for retention.",
+    "lang": "en",
+    "expected_topic": "salaries",
+    "expected_risk_level": "medium",
+    "expert_notes": "+12% компенсации без улучшения удержания = medium риск неверной стратегии при правильных инвестициях"
+  },
+  {
+    "id": "news_042",
+    "url": "https://rbc.ru/career/2024/04/professionalnyy-burnout-molodezh",
+    "title": "Выгорание настигает россиян всё раньше: средний возраст — 29 лет",
+    "content": "Средний возраст первого профессионального выгорания в России снизился до 29 лет по данным НИУ ВШЭ. Основные факторы: высокие ожидания поколения Z, нестабильность рынка и отсутствие баланса работа/жизнь. Компании, внедрившие 4-дневную рабочую неделю, показывают на 40% меньше ранних случаев выгорания.",
+    "lang": "ru",
+    "expected_topic": "burnout",
+    "expected_risk_level": "high",
+    "expert_notes": "Снижение возраста выгорания до 29 лет = high; системная проблема поколения с долгосрочными последствиями"
+  },
+  {
+    "id": "news_043",
+    "url": "https://www.fastcompany.com/work-life/headcount-freeze-tech-companies",
+    "title": "Headcount Freezes Spread Beyond Tech as CFOs Cut Workforce Costs",
+    "content": "Headcount freezes, once limited to tech companies, are now spreading to retail, media, and financial services. CFOs cite inflation pressures and AI productivity gains as justification for maintaining lean teams. Talent acquisition teams report an identity crisis as their core function is temporarily suspended.",
+    "lang": "en",
+    "expected_topic": "hiring",
+    "expected_risk_level": "high",
+    "expert_notes": "Заморозка найма распространяется на новые отрасли; high — системный тренд с влиянием на рынок труда"
+  },
+  {
+    "id": "news_044",
+    "url": "https://habr.com/ru/articles/845678/",
+    "title": "Как российские компании внедряют OKR: результаты 3-летнего исследования",
+    "content": "Исследование 150 российских компаний, внедривших OKR, показало: 60% отмечают рост вовлечённости, 45% — улучшение прозрачности целей. Однако 35% признают, что OKR превратились в бюрократический инструмент без реального влияния на культуру. Ключевой фактор успеха — поддержка топ-менеджмента.",
+    "lang": "ru",
+    "expected_topic": "culture",
+    "expected_risk_level": "low",
+    "expert_notes": "Смешанные результаты OKR-внедрения; low risk — аналитическая статья без острых сигналов тревоги"
+  },
+  {
+    "id": "news_045",
+    "url": "https://fortune.com/2024/03/living-wage-gap-minimum-wage",
+    "title": "The Gap Between Minimum Wage and Living Wage Has Never Been Wider",
+    "content": "In 43 US states, the minimum wage falls more than 40% short of the calculated living wage for a single adult. Workers in food service and retail often hold multiple jobs to meet basic expenses. Companies voluntarily adopting living wage policies report 31% lower turnover and significantly reduced absenteeism.",
+    "lang": "en",
+    "expected_topic": "salaries",
+    "expected_risk_level": "critical",
+    "expert_notes": "Разрыв минимальная/прожиточная зарплата в 43 штатах = critical социальный риск; системная проблема"
+  },
+  {
+    "id": "news_046",
+    "url": "https://vc.ru/hr/1089012-it-migranty-trudoustroystvo",
+    "title": "IT-эмигранты возвращаются: 15% уехавших специалистов рассматривают возврат",
+    "content": "По данным опроса Хабр Карьера, 15% IT-специалистов, уехавших из России в 2022-2023 годах, рассматривают возможность возвращения. Основные факторы: сложность адаптации, семейные обстоятельства и рост зарплат на российском рынке. Часть компаний предлагает специальные релокационные пакеты для возвращающихся.",
+    "lang": "ru",
+    "expected_topic": "hiring",
+    "expected_risk_level": "low",
+    "expert_notes": "Потенциальный приток кадров обратно = low risk; позитивный сигнал для рынка труда"
+  },
+  {
+    "id": "news_047",
+    "url": "https://hr-ru.ru/news/2024/04/esg-otchetnost-kadry",
+    "title": "ESG-отчётность теперь включает HR-метрики: что считать и как раскрывать",
+    "content": "С 2024 года крупные российские публичные компании обязаны раскрывать расширенные HR-метрики в ESG-отчётности: текучку, гендерный состав, инвестиции в обучение. Эксперты РСПП разработали стандарт из 18 обязательных показателей. Компании, уже публикующие HR-данные, отмечают рост доверия инвесторов.",
+    "lang": "ru",
+    "expected_topic": "diversity",
+    "expected_risk_level": "low",
+    "expert_notes": "Регуляторное требование ESG-раскрытия = low risk; новые стандарты требуют подготовки но не критичны"
+  },
+  {
+    "id": "news_048",
+    "url": "https://vedomosti.ru/management/2024/03/mfc-avtomatizatsiya",
+    "title": "МФЦ сокращает 12 000 операторов из-за перевода услуг в онлайн",
+    "content": "Многофункциональные центры начнут сокращение 12 000 операторов в связи с массовым переводом госуслуг в цифровой формат. Часть сотрудников будет переведена на должности цифровых помощников, остальным предложат переобучение. Профсоюзы требуют расширения программ поддержки и увеличения компенсаций.",
+    "lang": "ru",
+    "expected_topic": "layoffs",
+    "expected_risk_level": "critical",
+    "expert_notes": "12 000 сокращений в госсекторе; critical — масштаб + социальная значимость + требования профсоюзов"
+  },
+  {
+    "id": "news_049",
+    "url": "https://hbr.org/2024/01/onboarding-best-practices-2024",
+    "title": "The New Science of Onboarding: What Actually Works in 2024",
+    "content": "Research across 500 companies reveals onboarding programs lasting less than one week result in 50% higher first-year turnover. Structured 90-day onboarding plans with clear milestones reduce new hire failure rates by 62%. Social integration — connecting new hires with peers — proves more predictive of success than skills training alone.",
+    "lang": "en",
+    "expected_topic": "hiring",
+    "expected_risk_level": "medium",
+    "expert_notes": "Данные о влиянии онбординга на удержание; medium — важная тема с конкретными рекомендациями"
+  },
+  {
+    "id": "news_050",
+    "url": "https://rbc.ru/career/2024/04/zarplaty-vs-inflyatsiya",
+    "title": "Реальные зарплаты в России сократились на 3% несмотря на номинальный рост",
+    "content": "Несмотря на номинальный рост зарплат на 14% в 2023 году, реальные располагаемые доходы россиян снизились на 3% из-за высокой инфляции. Работники с доходом ниже медианного потеряли в реальном выражении до 8%. Социологи предупреждают о росте финансового стресса и его влиянии на производительность.",
+    "lang": "ru",
+    "expected_topic": "salaries",
+    "expected_risk_level": "critical",
+    "expert_notes": "Реальное снижение доходов -3% (-8% у нижней половины) = critical; финансовый стресс влияет на производительность"
+  }
+]

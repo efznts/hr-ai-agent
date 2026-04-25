@@ -1,0 +1,20 @@
+source_id,source_name,lang,category,expected_hiring,expected_layoffs,expected_salaries,expected_skills,expected_burnout,expected_culture,expected_diversity,real_hiring,real_layoffs,real_salaries,real_skills,real_burnout,real_culture,real_diversity,delta_hiring,delta_layoffs,delta_salaries,delta_skills,delta_burnout,delta_culture,delta_diversity,max_delta_pp,big_gaps,recommendation
+shrm-news,SHRM News,en,hr_official,20,10,15,15,10,15,15,18,18,14,14,10,15,11,-2,8,-1,-1,0,0,-4,8,—,ok
+atd-org,ATD,en,hr_official,10,5,5,45,10,15,10,10,4,4,48,5,17,12,0,-1,-1,3,-5,2,2,5,—,ok
+hbr,Harvard Business Review,en,media,10,5,10,15,15,25,20,12,3,13,12,13,29,18,2,-2,3,-3,-2,4,-2,4,—,ok
+fast-company-work,Fast Company Work Life,en,media,10,10,10,15,20,25,10,12,6,15,15,17,22,13,2,-4,5,0,-3,-3,3,5,—,ok
+forbes-work,Forbes Leadership,en,media,15,10,15,15,10,20,15,18,7,14,12,14,24,11,3,-3,-1,-3,4,4,-4,4,—,ok
+fortune-at-work,Fortune At Work,en,media,15,20,15,10,15,15,10,14,23,13,14,13,16,7,-1,3,-2,4,-2,1,-3,4,—,ok
+the-muse,The Muse,en,media,30,5,15,15,15,10,10,31,3,15,17,13,14,7,1,-2,0,2,-2,4,-3,4,—,ok
+vc-ru,VC.ru,ru,media,20,25,20,15,10,5,5,18,22,19,15,9,12,5,-2,-3,-1,0,-1,7,0,7,—,ok
+rbc-hr,РБК Карьера,ru,media,15,25,30,10,5,10,5,14,23,29,9,10,10,5,-1,-2,-1,-1,5,0,0,5,—,ok
+vedomosti-hr,Ведомости Менеджмент,ru,media,10,20,25,10,5,15,15,10,26,24,7,4,17,12,0,6,-1,-3,-1,2,-3,6,—,ok
+habr,Habr,ru,community,20,15,15,30,15,5,0,23,11,10,28,17,9,2,3,-4,-5,-2,2,4,2,5,—,ok
+hacker-news,Hacker News,en,community,25,20,15,25,10,5,0,23,18,13,26,11,4,5,-2,-2,-2,1,1,-1,5,5,—,ok
+reddit-humanresources,Reddit r/humanresources,en,community,15,10,15,10,20,15,15,15,12,17,10,21,13,12,0,2,2,0,1,-2,-3,3,—,ok
+medium-hr,Medium HR,en,community,10,5,10,15,20,25,15,8,2,9,18,21,25,17,-2,-3,-1,3,1,0,2,3,—,ok
+hr-ru,HR.ru,ru,community,20,10,15,20,15,15,5,20,7,12,25,17,13,6,0,-3,-3,5,2,-2,1,5,—,ok
+techcrunch-hr,TechCrunch HR,en,tech,25,20,10,25,5,5,10,22,23,12,21,2,9,11,-3,3,2,-4,-3,4,1,4,—,ok
+wired-work,Wired Work,en,tech,10,10,10,20,15,20,15,11,11,13,21,12,17,15,1,1,3,1,-3,-3,0,3,—,ok
+economist-business,The Economist Business,en,biz,10,20,25,15,5,15,10,13,17,20,15,8,15,12,3,-3,-5,0,3,0,2,5,—,ok
+mit-sloan,MIT Sloan Management Review,en,biz,10,5,10,20,10,30,15,11,1,13,21,8,28,18,1,-4,3,1,-2,-2,3,4,—,ok
